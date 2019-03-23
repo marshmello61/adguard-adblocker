@@ -1,8 +1,8 @@
 id=adguardm
-name=Adguard v1.0
+name=D.A.B. Adguard v1.0
 version=v1.0
 versionCode=1
 author=Mayur @marshmello - xda developers
-description=Blocks Advertisements.:D
+description=The adblocker that makes you dab to ad providers :D
 support=https://forum.xda-developers.com
 minMagisk=1530
