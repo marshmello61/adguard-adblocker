@@ -12,7 +12,7 @@ AdGuard DNS is the solution.
 
 ## Requirements:
 
-- Magisk 17
+- Magisk 19
 - In this module AdGuard DNS uses port 5353, sometimes it can be blocked.
 ....something else?
 
